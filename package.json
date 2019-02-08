@@ -1,0 +1,49 @@
+{
+   "name": "react-use-keyshortcut",
+   "version": "0.0.1",
+   "description": "A react hook for app keyboard shortcuts",
+   "main": "useKeyShortcut.jsx",
+   "scripts": {
+      "test": "npm test"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lostclawz/react-use-keyshortcut.git"
+   },
+   "keywords": [
+      "react",
+      "hook",
+      "shortcuts",
+      "keyboard"
+   ],
+   "author": "Philip Kuperberg",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/lostclawz/react-use-keyshortcut/issues"
+   },
+   "homepage": "https://github.com/lostclawz/react-use-keyshortcut#readme",
+   "dependencies": {
+      "babel-eslint": "^10.0.1",
+      "@babel/cli": "^7.2.3",
+      "@babel/core": "^7.2.2",
+      "@babel/plugin-proposal-class-properties": "^7.3.0",
+      "@babel/plugin-proposal-decorators": "^7.3.0",
+      "@babel/plugin-proposal-object-rest-spread": "^7.3.2",
+      "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+      "@babel/plugin-transform-destructuring": "^7.3.2",
+      "@babel/polyfill": "^7.2.5",
+      "@babel/preset-env": "^7.3.1",
+      "@babel/preset-react": "^7.0.0",
+      "@babel/register": "^7.0.0",
+      "babel-loader": "^8.0.5",
+      "eslint": "^5.13.0",
+      "eslint-config-airbnb": "^17.1.0",
+      "eslint-plugin-import": "^2.16.0",
+      "eslint-plugin-jsx-a11y": "^6.2.1",
+      "eslint-plugin-react": "^7.12.4",
+      "eslint-plugin-react-hooks": "^1.0.1",
+      "react": "^16.8.1",
+      "react-dom": "^16.8.1",
+      "mocha": "^5.1.1"
+   }
+}
